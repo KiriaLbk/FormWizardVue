@@ -1,6 +1,6 @@
 <template>
   <div class="textblock">
-    <span>Choose a meeting place</span>
+    <span>Select meeting day</span>
     <div>
         <input v-model="date" type="date">
     </div>
