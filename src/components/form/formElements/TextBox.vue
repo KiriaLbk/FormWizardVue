@@ -60,6 +60,7 @@ export default {
 .input {
   display: flex;
   flex-direction: column;
+  margin-top: 5px;
 }
 button {
     height: 20px;
